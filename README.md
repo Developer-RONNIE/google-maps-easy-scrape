@@ -41,7 +41,7 @@ This Google Maps scraper allows you to extract valuable business information fro
 ## 1. Installation
 To install the Google Maps scraper extension, follow these simple steps:
 
-Step 1: Download the Extension Files
+Step 1: Download the Extension Files <br />
 Download the necessary files from the repository. The folder will contain the following files: <br />
 - manifest.json
 - popup.html
@@ -49,12 +49,12 @@ Download the necessary files from the repository. The folder will contain the fo
 - map.png (icon)
 <br />
 Step 2: Load the Extension in Your Browser <br />
-Open your browser (Google Chrome or Brave recommended).
-- Navigate to the Extensions page:
-- On Chrome, go to chrome://extensions/.
-- On Brave, go to brave://extensions/.
-- Enable Developer Mode at the top-right corner.
-- Click Load unpacked and select the folder containing the downloaded extension files.
+Open your browser (Google Chrome or Brave recommended). <br />
+- Navigate to the Extensions page: <br />
+- On Chrome, go to chrome://extensions/. <br />
+- On Brave, go to brave://extensions/. <br />
+- Enable Developer Mode at the top-right corner. <br />
+- Click Load unpacked and select the folder containing the downloaded extension files. <br />
 <br />
 Step 3: Pin the Extension
 Once the extension is installed, pin it to your browser's toolbar for easy access. <br />
