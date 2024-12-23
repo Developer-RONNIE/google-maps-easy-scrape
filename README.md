@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="https://github.com/Developer-RONNIE/cloudvault/blob/main/public/assets/icons/git-banner.png" alt="Project Banner"> 
+  <img src="https://github.com/Developer-RONNIE/google-maps-easy-scrape/blob/main/easyscrape.png" alt="Project Banner"> 
   <br />
 
   <div>
