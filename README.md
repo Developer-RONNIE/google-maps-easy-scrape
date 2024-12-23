@@ -44,10 +44,10 @@ To install the Google Maps scraper extension, follow these simple steps:<br />
 <br />
 **Step 1: Download the Extension Files** <br />
 Download the necessary files from the repository. The folder will contain the following files: <br />
-- manifest.json
-- popup.html
-- popup.js
-- map.png (icon)
+- manifest.json <br />
+- popup.html <br />
+- popup.js <br />
+- map.png (icon) <br />
 <br />
 
 **Step 2: Load the Extension in Your Browser** <br />
