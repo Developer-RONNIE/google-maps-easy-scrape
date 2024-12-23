@@ -21,6 +21,20 @@
 
 ## <a name="features">🔋 Features</a>
 
+1. **Data Extraction**: Extracts business name, rating, reviews, contact information, and website/Google Maps URLs.
+   
+2. **Industry Flexibility**: Scrape businesses across various industries and locations with ease.
+
+3. **CSV Export**: Export scraped data into a customizable CSV file for easy use.
+
+4. **Unlimited Scraping**: Continuously scrape data as you scroll through Google Maps results.
+
+5. **Data Accuracy**: Provides precise, up-to-date business information for reliable data.
+
+6. **Browser Compatibility**: Fully compatible with Google Chrome and Brave browsers.
+
+7. **Lightweight & Fast**: Runs efficiently without consuming excessive system resources.
+
 ## <a name="quick-start">🤸 How-to-Use</a>
 This Google Maps scraper allows you to extract valuable business information from Google Maps with just a click of a button. Follow the steps below to get started:
 
