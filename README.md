@@ -18,6 +18,11 @@
 3. 🤸 [How-to-Use](#quick-start)
 
 ## <a name="introduction">🤖 Introduction</a>
+A powerful web extension tool designed for businesses using Google Maps. Perfect for gathering business information, analyzing location-based data, and automating data collection from Google Maps efficiently.
+
+• Automates the tedious process of data collection from Google Maps, saving time and effort.
+• A robust tool tailored to extract detailed location data, reviews, ratings, & more from Google Maps effortlessly.
+• Perfect for gathering comprehensive business information to support strategic decision-making
 
 ## <a name="features">🔋 Features</a>
 
