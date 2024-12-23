@@ -48,6 +48,7 @@ Download the necessary files from the repository. The folder will contain the fo
 - popup.js
 - map.png (icon)
 <br />
+
 Step 2: Load the Extension in Your Browser <br />
 Open your browser (Google Chrome or Brave recommended). <br />
 - Navigate to the Extensions page: <br />
@@ -56,6 +57,7 @@ Open your browser (Google Chrome or Brave recommended). <br />
 - Enable Developer Mode at the top-right corner. <br />
 - Click Load unpacked and select the folder containing the downloaded extension files. <br />
 <br />
+
 Step 3: Pin the Extension
 Once the extension is installed, pin it to your browser's toolbar for easy access. <br />
 
