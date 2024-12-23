@@ -69,6 +69,7 @@ Step 1: Open Google Maps <br />
 - Go to Google Maps. <br />
 - Search for any industry or business category you want to scrape (e.g., HVAC, real estate, lawn care, restaurant , etc.) and specify the location. <br />
 <br />
+
 Step 2: Scrape the Data <br />
 Scroll down to the bottom of the Google Maps results page to load more listings.
 Once you've reached the end of the list, click the "Scrape Google Maps" button in the extension toolbar. <br />
@@ -81,8 +82,9 @@ The scraper will automatically extract the data and display it in a table format
 - Website URL <br />
 - Google Maps URL <br />
 <br />
-Step 3: Download the Data
-After the data is displayed, you can customize the file name.
+
+Step 3: Download the Data <br />
+After the data is displayed, you can customize the file name. <br />
 Click Download CSV to export the scraped data into a CSV file for further use (cold calling, email campaigns, etc.).
 
 
