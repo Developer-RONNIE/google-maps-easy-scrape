@@ -39,53 +39,50 @@
 This Google Maps scraper allows you to extract valuable business information from Google Maps with just a click of a button. Follow the steps below to get started:
 
 <details>
-<summary><code>1. Installlation</code></summary>
-To install the Google Maps scraper extension, follow these simple steps:<br />
-<br />
-**Step 1: Download the Extension Files** <br />
-Download the necessary files from the repository. The folder will contain the following files: <br />
-- manifest.json <br />
-- popup.html <br />
-- popup.js <br />
-- map.png (icon) <br />
-<br />
+  <summary><code>1. Installation</code></summary>
+  To install the Google Maps scraper extension, follow these simple steps:
+  
+  **Step 1: Download the Extension Files**  
+  Download the necessary files from the repository. The folder will contain the following files:
+  - manifest.json
+  - popup.html
+  - popup.js
+  - map.png (icon)
 
-**Step 2: Load the Extension in Your Browser** <br />
-Open your browser (Google Chrome or Brave recommended). <br />
-- Navigate to the Extensions page: <br />
-- On Chrome, go to chrome://extensions/. <br />
-- On Brave, go to brave://extensions/. <br />
-- Enable Developer Mode at the top-right corner. <br />
-- Click Load unpacked and select the folder containing the downloaded extension files. <br />
- 
-**Step 3: Pin the Extension** <br />
-Once the extension is installed, pin it to your browser's toolbar for easy access. <br />
+  **Step 2: Load the Extension in Your Browser**  
+  Open your browser (Google Chrome or Brave recommended).  
+  - Navigate to the Extensions page:  
+    - On Chrome, go to `chrome://extensions/`.  
+    - On Brave, go to `brave://extensions/`.  
+  - Enable Developer Mode at the top-right corner.  
+  - Click "Load unpacked" and select the folder containing the downloaded extension files.  
+
+  **Step 3: Pin the Extension**  
+  Once the extension is installed, pin it to your browser's toolbar for easy access.
 </details>
 
-
 <details>
-<summary><code>2. Using the Scrapern</code></summary>
-Now that the extension is installed, here’s how you can use it to scrape Google Maps data: <br />
-<br />
-**Step 1:  Open Google Maps** <br />
-- Go to Google Maps. <br />
-- Search for any industry or business category you want to scrape (e.g., HVAC, real estate, lawn care, restaurant , etc.) and specify the location. <br />
-  <br />
+  <summary><code>2. Using the Scraper</code></summary>
+  Now that the extension is installed, here’s how you can use it to scrape Google Maps data:
 
-**Step 2: Scrape the Data**  <br />
-Scroll down to the bottom of the Google Maps results page to load more listings.   <br />
-Once you've reached the end of the list, click the "Scrape Google Maps" button in the extension toolbar. <br />
-The scraper will automatically extract the data and display it in a table format. The data includes:  <br />
-- Business name <br />
-- Rating and reviews <br />
-- Phone number <br />
-- Industry <br />
-- Address <br />
-- Website URL <br />
-- Google Maps URL <br />
+  **Step 1: Open Google Maps**  
+  - Go to Google Maps.  
+  - Search for any industry or business category you want to scrape (e.g., HVAC, real estate, lawn care, restaurant, etc.) and specify the location.  
 
-**Step 3: Download the Data** <br />
-After the data is displayed, you can customize the file name. <br />
-Click Download CSV to export the scraped data into a CSV file for further use (cold calling, email campaigns, etc.).
+  **Step 2: Scrape the Data**  
+  Scroll down to the bottom of the Google Maps results page to load more listings.  
+  Once you've reached the end of the list, click the "Scrape Google Maps" button in the extension toolbar.  
+  The scraper will automatically extract the data and display it in a table format. The data includes:  
+  - Business name  
+  - Rating and reviews  
+  - Phone number  
+  - Industry  
+  - Address  
+  - Website URL  
+  - Google Maps URL  
+
+  **Step 3: Download the Data**  
+  After the data is displayed, you can customize the file name.  
+  Click "Download CSV" to export the scraped data into a CSV file for further use (cold calling, email campaigns, etc.).
 </details>
 
