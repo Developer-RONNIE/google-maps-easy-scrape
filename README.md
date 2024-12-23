@@ -40,8 +40,8 @@ This Google Maps scraper allows you to extract valuable business information fro
 
 <details>
 <summary><code>1. Installlation</code></summary>
-To install the Google Maps scraper extension, follow these simple steps:
-
+To install the Google Maps scraper extension, follow these simple steps:<br />
+<br />
 Step 1: Download the Extension Files <br />
 Download the necessary files from the repository. The folder will contain the following files: <br />
 - manifest.json
@@ -66,12 +66,12 @@ Once the extension is installed, pin it to your browser's toolbar for easy acces
 <details>
 <summary><code>2. Using the Scrapern</code></summary>
 Now that the extension is installed, here’s how you can use it to scrape Google Maps data: <br />
-
-Step 1: Open Google Maps <br />
+<br />
+**Step 1:** Open Google Maps <br />
 - Go to Google Maps. <br />
 - Search for any industry or business category you want to scrape (e.g., HVAC, real estate, lawn care, restaurant , etc.) and specify the location. <br />
 
-Step 2: Scrape the Data <br />
+**Step 2:** Scrape the Data <br />
 Scroll down to the bottom of the Google Maps results page to load more listings.
 Once you've reached the end of the list, click the "Scrape Google Maps" button in the extension toolbar. <br />
 The scraper will automatically extract the data and display it in a table format. The data includes:  <br />
@@ -83,7 +83,7 @@ The scraper will automatically extract the data and display it in a table format
 - Website URL <br />
 - Google Maps URL <br />
 
-Step 3: Download the Data <br />
+**Step 3:** Download the Data <br />
 After the data is displayed, you can customize the file name. <br />
 Click Download CSV to export the scraped data into a CSV file for further use (cold calling, email campaigns, etc.).
 </details>
